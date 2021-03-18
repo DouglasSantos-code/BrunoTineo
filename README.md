@@ -2,7 +2,7 @@
 
 ## Demonstration
 
-<a href="https://www.criarbanner.com.br" title="criar banner" target="_blank"><img src="https://www.criarbanner.com.br/criargifs/a/4a535a91cd0d7367cc84dc1852ef1346.gif" width="750" height="390.8571428571" border="0" /></a><br /><a href="https://www.criarbanner.com.br/logotipo/" title="criar logotipo" target="_blank"></a>
+<a href="https://www.criarbanner.com.br" title="criar banner" target="_blank"><img src="https://www.criarbanner.com.br/criargifs/a/4a535a91cd0d7367cc84dc1852ef1346.gif" width="650" height="390.8571428571" border="0" /></a><br /><a href="https://www.criarbanner.com.br/logotipo/" title="criar logotipo" target="_blank"></a>
 
 ### Para ver o projeto funcionando [click aqui](https://douglassantos-code.github.io/Site-Personal-Trainer/)
 
